@@ -48,7 +48,7 @@ Document Tracking System (DTS) is an Android application built using **Java** an
 
 ---
 
-## ⭐ Technical Highlights (Resume Ready)
+## ⭐ Technical Highlights
 
 - 🔹 **Implemented role-based authentication and access control** using Firebase Authentication, dynamically routing users to Student or Admin dashboards.
 - 🔹 **Designed a multi-level document approval workflow system** with real-time status tracking and current approver visibility.
@@ -84,6 +84,19 @@ Document Tracking System (DTS) is an Android application built using **Java** an
 - NOC requests  
 - Internship and project approvals  
 - Scholarship and academic document verification  
+
+---
+
+## 🔐 Firebase Setup
+
+`google-services.json` is excluded for security reasons.
+
+To run the project:
+1. Create a Firebase project
+2. Register Android app
+3. Download `google-services.json`
+4. Place it inside `app/`
+5. Sync and run
 
 ---
 

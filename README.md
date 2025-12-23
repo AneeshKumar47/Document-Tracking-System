@@ -72,9 +72,7 @@ Document Tracking System (DTS) is an Android application built using **Java** an
 
 ## 🎥 App Demo Video
 
-A working demo of the application can be found here:
-
-▶️ **[Click here to watch the demo](Video.mp4)**
+▶️ [Click here to watch the demo](https://youtu.be/PpXCJaCfMis)
 
 > Note: If the video does not play directly on GitHub, please upload it to Google Drive or YouTube (Unlisted) and replace the link above.
 
